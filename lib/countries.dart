@@ -528,8 +528,8 @@ const List<Country> countries = [
     flag: "🇸🇻",
     code: "SV",
     dialCode: "503",
-    minLength: 11,
-    maxLength: 11,
+    minLength: 8,
+    maxLength: 8,
   ),
   Country(
     name: "Equatorial Guinea",
